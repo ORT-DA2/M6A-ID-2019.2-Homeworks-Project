@@ -11,6 +11,13 @@
 * [Clase 4 - WebApi](/Clases/Clase%204%20-%20WebApi.md)
 * [Clase 5 - Filters](/Clases/Clase%205%20-%20Filters.md)
 * [Clase 6 - Postman](/Clases/Clase%206%20-%20Postman.pdf) / [Colección de Ejemplo](/Codigo/Postman)
+* Clase 7 - Feriado
+* [Clase 8 - Reflection](/Clases/Clase%208%20-%20Reflection.md) / [Reflection Ejemplo](/Codigo/Reflection)
+* [Clase 8 - Deployment en IIS](/Clases/Clase%208%20-%20Deployment%20en%20IIS.md)
+
+## Extra
+
+* [Custom Data Binding (Extra)](/Clases/Clase%208%20-%20Custom%20Data%20Binding.md)
 
 ## Links de Interés
 
